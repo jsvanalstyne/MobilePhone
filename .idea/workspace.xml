@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hQ63bF4UIsF8P4R73r4WNwdvDi" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1599930819912">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1599930819912" />
+    <state x="114" y="72" key="new project wizard" timestamp="1599930813007">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="114" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1599930813007" />
+  </component>
+</project>
