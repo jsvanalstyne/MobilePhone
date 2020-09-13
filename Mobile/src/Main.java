@@ -109,6 +109,15 @@ public class Main {
         }
     }
     private static void searchContact(){
-        
+        System.out.println("Enter contact name for removal: ");
+        String name = scanner.nextLine();
+        Contacts existingContact = mobilePhone.queryContact(name);
+        if (existingContact == null) {
+            System.out.println("No contact found");
+            return;
+
+
+        }
+        System.out.println("Name " + existingContact.getName()+ " phone number " + existingContact.getPhoneNumber());
     }
 }
