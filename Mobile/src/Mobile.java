@@ -65,5 +65,20 @@ public class Mobile {
             return null;
         }
     }
+    public Contacts queryContact(String name){
+        int position = findContact(name);
+        if(position > 0){
+            return this.contacts.get(position);
+        }
+        return null;
+    }
+    public void printContacts(){
+        System.out.println("Contact List: ");
+        for(int i=0; i<this.contacts.size(); i++){
+            System.out.println(this.contacts.get(i).getName());
+            System.out.print(this.contacts.get(i).getPhoneNumber());
+
+        }
+    }
 
 }
